@@ -36,4 +36,4 @@ How do simple modifications to audio affect transcription results and also the s
 
 ## Next question
 
-Instead of applying perturbations to the entire recording, can we identify moments/frequencies where perturbations are more effective?
+Instead of applying perturbations to the entire recording, can we identify frequency bands where perturbations are more effective against transcription & less noticeable to the human ear?
